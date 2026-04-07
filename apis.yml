@@ -23,10 +23,10 @@ apis:
       Programmatic access to LF Energy project resources, grid data APIs, and energy sector tools.
     humanURL: https://lfenergy.org/projects/
     tags:
-  - Energy
-  - Power Grid
-  - Sustainability
-  - Linux Foundation
+      - Energy
+      - Power Grid
+      - Sustainability
+      - Linux Foundation
     properties:
       - type: Documentation
         url: https://lfenergy.org/projects/
