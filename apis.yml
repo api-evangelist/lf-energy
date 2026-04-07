@@ -8,9 +8,9 @@ access: 3rd-Party
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - Energy
+  - Linux Foundation
   - Power Grid
   - Sustainability
-  - Linux Foundation
 created: '2026-03-16'
 modified: '2026-03-16'
 url: >-
@@ -24,9 +24,9 @@ apis:
     humanURL: https://lfenergy.org/projects/
     tags:
       - Energy
+      - Linux Foundation
       - Power Grid
       - Sustainability
-      - Linux Foundation
     properties:
       - type: Documentation
         url: https://lfenergy.org/projects/
