@@ -12,7 +12,7 @@ tags:
   - Power Grid
   - Sustainability
 created: '2026-03-16'
-modified: '2026-03-16'
+modified: '2026-04-28'
 url: >-
   https://raw.githubusercontent.com/api-evangelist/lf-energy/refs/heads/main/apis.yml
 specificationVersion: '0.19'
@@ -39,6 +39,14 @@ common:
     name: LF Energy GitHub
     description: Source code and repositories for LF Energy.
     url: https://github.com/lf-energy
+  - type: Projects
+    name: LF Energy Projects
+    description: Portfolio of open source energy sector projects including Carbon Data Specification (CDS), EVerest, Power Grid Model, and special interest groups for AI, Digital Substations, EV Charging, and Grid Simulation and Modeling.
+    url: https://lfenergy.org/projects/
+  - type: Landscape
+    name: LF Energy Landscape
+    description: Interactive landscape of LF Energy projects and members.
+    url: https://landscape.lfenergy.org/
 maintainers:
   - FN: Kin Lane
     email: info@apievangelist.com

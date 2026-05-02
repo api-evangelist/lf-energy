@@ -13,7 +13,7 @@ LF Energy is a Linux Foundation project building open source technology solution
 
 ## Timestamps
 - **Created:** 2026-03-16
-- **Modified:** 2026-03-16
+- **Modified:** 2026-04-28
 
 ## APIs
 
@@ -31,6 +31,8 @@ Programmatic access to LF Energy project resources, grid data APIs, and energy s
 ## Common Properties
 - [Documentation](https://lfenergy.org/projects/)
 - [GitHub Repository](https://github.com/lf-energy)
+- [Projects](https://lfenergy.org/projects/)
+- [Landscape](https://landscape.lfenergy.org/)
 
 ## Maintainers
 **FN:** Kin Lane
