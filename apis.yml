@@ -31,6 +31,8 @@ apis:
       - type: Documentation
         url: https://lfenergy.org/projects/
 common:
+  - type: DomainSecurity
+    url: security/lf-energy-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/lf-energy-foundation
   - type: Documentation
@@ -49,6 +51,8 @@ common:
     name: LF Energy Landscape
     description: Interactive landscape of LF Energy projects and members.
     url: https://landscape.lfenergy.org/
+  - url: https://lfenergy.org/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: info@apievangelist.com
