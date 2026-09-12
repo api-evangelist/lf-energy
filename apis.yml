@@ -54,6 +54,8 @@ apis:
       - type: Documentation
         url: https://lfenergy.org/projects/
 common:
+  - type: Website
+    url: https://www.lfenergy.org/
   - type: DomainSecurity
     url: security/lf-energy-domain-security.yml
   - type: LinkedIn
